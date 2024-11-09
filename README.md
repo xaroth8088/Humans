@@ -9,3 +9,7 @@ To contribute to this project, please file new issues or comment on existing one
 Note that all pull requests to this project will be declined, as the implementation backlog is considered a trade secret.  While we will do everything we can to respond to your feedback, we unfortunately cannot guarantee when or even if we will be able to address your thoughts or concerns.
 
 Thank you for being human!
+
+## Contributions
+
+By contributing to this project (issues, comments, pull requests, or otherwise), you agree to license your contributions under the [Unlicense](https://unlicense.org/). This means your contributions are made freely available for public use, modification, and distribution without restrictions.
